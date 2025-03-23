@@ -54,7 +54,7 @@ a {
     font-weight: 900;
     color: white;
     position: absolute;
-    top: 40%;
+    align-self: anchor-center;
     right: -60px;
     transform: rotate(270deg);
 }
